@@ -1,0 +1,4 @@
+:HL["/formaition/_next/static/css/38cea90ddd512a10.css","style"]
+:HL["/formaition/_next/static/css/83de51e7bfe652ac.css","style"]
+:HL["/formaition/_next/static/css/601c3751bd70f358.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(it)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"pilastri","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"misurabile","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"m7W_DnQWNHHG34NbXFijR"}
