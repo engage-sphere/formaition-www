@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-labelledby="title">
+  <title id="title">FormAItion brand mark</title>
+  <g fill="#d6f36a" transform="translate(12 12) rotate(-17) translate(-8.5 -8.5)">
+    <rect x="0" y="0" width="7" height="7" rx="2"/>
+    <rect x="10" y="0" width="7" height="7" rx="2" opacity=".47"/>
+    <rect x="0" y="10" width="7" height="7" rx="2" opacity=".47"/>
+    <rect x="10" y="10" width="7" height="7" rx="2"/>
+  </g>
+</svg>
